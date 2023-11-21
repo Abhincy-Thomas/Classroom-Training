@@ -16,9 +16,6 @@ define(['N/record'],
          * @param {ServletRequest} scriptContext.request - HTTP request information sent from the browser for a client action only.
          * @since 2015.2
          */
-        const beforeLoad = (scriptContext) => {
-
-        }
 
         /**
          * Defines the function definition that is executed before record is submitted.
