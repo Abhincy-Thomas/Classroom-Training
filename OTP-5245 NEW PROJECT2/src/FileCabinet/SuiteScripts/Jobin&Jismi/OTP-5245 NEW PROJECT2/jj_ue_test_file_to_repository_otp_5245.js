@@ -4,7 +4,7 @@
  */
 define(['N/record'],
     /**
- * @param{record} record
+ * @param{record} record iiiii
  */
     (record) => {
         /**
@@ -25,9 +25,7 @@ define(['N/record'],
          * @param {string} scriptContext.type - Trigger type; use values from the context.UserEventType enum
          * @since 2015.2
          */
-        const beforeSubmit = (scriptContext) => {
-
-        }
+        
 
         /**
          * Defines the function definition that is executed after record is submitted.
